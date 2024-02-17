@@ -26,3 +26,5 @@ In today's digital age, the consumption of literature has evolved beyond traditi
 - Interactive distribution maps and charts (yingjie) showcasing novel data.
 - Background music generation (w.w) system that creates music based on novel text analysis.
 - Video generation (Will) system producing visually engaging videos based on novel content.
+
+<img width="1223" alt="image" src="https://github.com/Rexmiao/DomusFlow/assets/35504986/76221aa1-3ebe-4753-9d9c-29661b740372">
