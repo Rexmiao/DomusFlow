@@ -1,4 +1,5 @@
 <img width="506" alt="image" src="https://github.com/Rexmiao/DomusFlow/assets/35504986/3069dc81-5d63-4281-bce0-85876f1b8f9a">
+https://github.com/Rexmiao/DomusFlow/assets/43904091/1626907b-ced4-44e9-bcf3-da67885641d5
 
 # BookFlow
 
@@ -23,6 +24,6 @@ BookFlow is an innovative platform that transforms books into immersive video an
 - A text summarization tool (Rexy) that produces accurate and concise summaries of novel texts.
 - Interactive data visualization tools (Yingjie) that display novel data through distribution maps and charts.
 - A background music generation system (W.W.) that creates mood-based music reflecting the novel's tone.
-- A video generation system (Will) that produces visually captivating videos highlighting key novel content.
+- Summaries, Images, and video generation system (Will) that produces visually captivating videos highlighting key novel content.
 
 BookFlow aims to redefine the way readers experience novels, blending traditional reading with multimedia elements to create a fully immersive experience.
